@@ -25,8 +25,9 @@ No manual cleaning is necessary for the script will automatically:
 
 ## Requirements
 * Python 3.10 or newer
-* Downloadable tools: 'pandas', 'numpy', 'scipy' 'matplotlib' 
+* Downloadable tools: `numpy`, `pandas` and `matplotlib`
 
+  
 ## Code Installation
 
 ### How to run the code:
@@ -35,10 +36,12 @@ No manual cleaning is necessary for the script will automatically:
 
 
 ## Results
-**Fig. 1.** The scatter plot displays life expectancy vs. healthcare spending in the year 2019 with linear and log fits. Each of the 59 dots represents a country in 2019.
+**Fig. 1. The scatter plot displays life expectancy vs. healthcare spending in the year 2019 with linear and log fits. Each of the 59 dots represents a country in 2019.**
+
 <img width="616" height="389" alt="Screenshot 2026-10-14 at 13 51 58" src="https://github.com/user-attachments/assets/eec7357b-fe9e-4a1e-b0b5-13938c530bb4" />
 
-**Fig. 2.** Two normal distribution curves 
+**Fig. 2. Two normal distribution curves**
+
 <img width="630" height="352" alt="Screenshot 2026-10-14 at 13 52 17" src="https://github.com/user-attachments/assets/2487d3fc-981b-48a0-91a5-3753ee79f41a" />
 
 
