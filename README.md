@@ -24,7 +24,7 @@ No manual cleaning is necessary for the script will automatically:
 
 ## Requirements
 * Python 3.10 or newer
-* Downloadable tools: `numpy`, `pandas` and `matplotlib`
+* Downloadable tools: `numpy`, `pandas`, `scipy` and `matplotlib`
 
   
 ## Code Installation
