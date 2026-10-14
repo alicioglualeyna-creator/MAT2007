@@ -9,7 +9,6 @@
 **University**: Maastricht University 
 
 
-
 ## Research Question
 To what extent is the association between healthcare spending and life expectancy characterized by diminishing returns?
 
