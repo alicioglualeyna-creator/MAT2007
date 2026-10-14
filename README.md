@@ -1,6 +1,6 @@
 # Life Expectancy vs. Healthcare Spending
 
-**Author**: Aleyna Alicioglu(i6381736)
+**Author**: Aleyna Alicioglu (i6381736)
 
 **Project**: Small-scale data analysis 
 
