@@ -37,7 +37,8 @@ No manual cleaning is necessary for the script will automatically:
 ## Results
 **Fig. 1. The scatter plot displays life expectancy vs. healthcare spending in the year 2019 with linear and log fits. Each of the 59 dots represents a country in 2019.**
 
-<img width="616" height="389" alt="Screenshot 2026-10-14 at 13 51 58" src="https://github.com/user-attachments/assets/eec7357b-fe9e-4a1e-b0b5-13938c530bb4" />
+<img width="974" height="604" alt="Screenshot 2026-10-14 at 14 39 17" src="https://github.com/user-attachments/assets/a501a668-e51b-49ad-9ea2-9395f0c63f84" />
+
 
 **Fig. 2. Two normal distribution curves**
 
