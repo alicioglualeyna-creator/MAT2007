@@ -108,6 +108,12 @@ tries, an extra $1,000 per person added 2.5 more years of life expectancy. Contr
 countries indicated no association with further gains in life expectancy. This means that the relationship
 becomes flatter as health spending increases.
 
+### Files
+The files that are included in this GitHub link are the following:
+* Short report (2 pages)
+* Python code
+* Figures and tables produced by the python code
+
 ## Data Citation 
 * UN, World Population Prospects (2024) – processed by Our World in Data. "Life expectancy at birth – UN WPP" [dataset].
 * OECD (2026) – with minor processing by Our World in Data. "Health expenditure per capita – Total – OECD" [dataset].
