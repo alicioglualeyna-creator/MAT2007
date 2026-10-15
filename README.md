@@ -23,14 +23,14 @@ The data is from Our World in Data: [Life expectancy vs. health spending](https:
 
 ### Cleaning
 The script will automatically:
-1. Remove any rows with missing values
+1. Remove any rows with missing values (18,809 → 2,047 rows; 59 countries from 1970–2023)
 2. Exclude the countries that have non-positive spendings
 3. Filter the data to focus on the year 2019 because it was the last full year before the Covid-19 pandemic. This new sample leaves you with a total of n = 59 countries to analyze.
 
 
 ## Requirements
 * Python 3.10 or newer
-* Downloadable tools: `numpy`, `pandas`, `scipy` and `matplotlib`
+* Downloadable tools: `numpy`, `pandas`, `scipy`, `matplotlib` and `certifi`
 
   
 ## Code Installation
