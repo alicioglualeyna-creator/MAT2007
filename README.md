@@ -10,10 +10,10 @@
 
 
 ## Research Question
-To what extent is the association between healthcare spending and life expectancy characterized by diminishing returns?
+To what extent is the association between healthcare spending and life expectancy characterized by diminishing returns across countries?
 
 ## Dataset
-The dataset is composed of three indicators: life expectancy at birth, health spending per person, and world region. 
+The data is from Our World in Data. The dataset is composed of three indicators: life expectancy at birth, health spending per person, and world region. 
 
 ### Cleaning
 The script will automatically:
@@ -60,10 +60,17 @@ The script will automatically:
 * The United States has the highest spending ($11,067 per person) among the 59 countries, yet has a life expectancy of only 78.9 years
 * The outliers suggest that there are other factors like efficiency, access, and lifestyle that play a role in life expectancy
 
+
+
 **Fig. 2. Two normal distribution curves**
 
 <img width="630" height="352" alt="Screenshot 2026-10-14 at 13 52 17" src="https://github.com/user-attachments/assets/2487d3fc-981b-48a0-91a5-3753ee79f41a" />
 
+* In low-spending countries the slope is +2.49 ± 1.54 per additional $1,000 spent
+    * This adds an extra 2.5 years of life expectancy
+* In high-spending countries the slope is −0.04±0.37 per additional $1,000 spent
+    * Value is very close to zero
+*  z = 3.3
 
 
 ## Limitations 
