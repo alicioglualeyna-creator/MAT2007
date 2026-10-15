@@ -16,10 +16,10 @@ To what extent is the association between healthcare spending and life expectanc
 The dataset is composed of three indicators: life expectancy at birth, health spending per person, and world region. 
 
 ### Cleaning
-No manual cleaning is necessary for the script will automatically:
-1. Removes any rows with missing values
-2. Excludes the countries that have non-positive spendings
-3. Filters the data to focus on the year 2019 because it was the last full year before the Covid-19 pandemic. This new sample leaves you with a total of n = 59 countries to analyze.
+The script will automatically:
+1. Remove any rows with missing values
+2. Exclude the countries that have non-positive spendings
+3. Filter the data to focus on the year 2019 because it was the last full year before the Covid-19 pandemic. This new sample leaves you with a total of n = 59 countries to analyze.
 
 
 ## Requirements
@@ -32,6 +32,11 @@ No manual cleaning is necessary for the script will automatically:
 ### How to run the code:
 
 ### What the script does:
+1. Loads and cleans data
+2. Filters the data to select the year 2019
+3. Creates a scatter plot to visualize the relationship between life expectancy and healthcare spending across 59 countries
+4. Fits a linear and a logarithmic model
+5. Compares the two models by calculating the coefficient of determination (R²) 
 
 
 ## Results
