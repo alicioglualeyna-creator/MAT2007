@@ -13,7 +13,13 @@
 To what extent is the association between healthcare spending and life expectancy characterized by diminishing returns across countries?
 
 ## Dataset
-The data is from Our World in Data: [Life expectancy vs. health spending](https://ourworldindata.org/grapher/life-expectancy-vs-health-expenditure). The dataset is composed of three indicators: life expectancy at birth, health spending per person, and world region. 
+The data is from Our World in Data: [Life expectancy vs. health spending](https://ourworldindata.org/grapher/life-expectancy-vs-health-expenditure). The dataset is composed of three indicators: 
+
+| Indicator | Unit | Source |
+|---|---|---|
+| Life expectancy at birth | Years | UN World Population Prospects (2024) |
+| Health spending per person (government, insurance and out-of-pocket) | International-$ at 2020 prices (adjusted for inflation and cost of living) | OECD (2026) |
+| World region | – | Our World in Data |
 
 ### Cleaning
 The script will automatically:
