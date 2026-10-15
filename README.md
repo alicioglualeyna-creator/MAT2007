@@ -45,7 +45,7 @@ The script will automatically:
 11. Lastly, it prints everything in the terminal and saves the tables (CSV) and figures (PNG)
 
 
-## Results
+## Main Results
 **Fig. 1. The scatter plot displays life expectancy vs. healthcare spending in the year 2019 with linear and log fits. Each of the 59 dots represents a country in 2019.**
 
 <img width="620" height="380" alt="Screenshot 2026-10-14 at 14 41 00" src="https://github.com/user-attachments/assets/1a704b53-937b-489f-90b4-5e8c65efe1ad" />
