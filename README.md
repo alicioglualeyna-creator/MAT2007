@@ -82,7 +82,7 @@ python3 Life_Expectancy_Analysis.py
 
 <br>
 
-**Fig. 2. Two normal distribution curves**
+**Fig. 2. Two normal distribution curves representing low- and high-spending countries (2019). The dotted line indicates no association.**
 
 <img width="630" height="352" alt="Screenshot 2026-10-14 at 13 52 17" src="https://github.com/user-attachments/assets/2487d3fc-981b-48a0-91a5-3753ee79f41a" />
 
