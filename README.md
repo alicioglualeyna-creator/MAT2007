@@ -42,7 +42,7 @@ The script will automatically:
 8. The countries are split using the median spending ($2,645)
 9. Fits a slope into each spending group with a %95 CI
 10. Tests whether there is a significant difference between the two slopes by calculating the z-score
-11. Lastly, it prints everything in the terminal and saves the tables and figures
+11. Lastly, it prints everything in the terminal and saves the tables (CSV) and figures (PNG)
 
 
 ## Results
