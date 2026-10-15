@@ -34,8 +34,18 @@ The script will automatically:
 
   
 ## Code Installation
+Install the tools once in the terminal:
+```bash
+pip install numpy pandas scipy matplotlib certifi
+```
 
 ### How to run the code:
+1. Download or clone this repository
+2. Open the folder in Visual Studio Code
+3. Run in the terminal:
+```bash
+python3 Life_Expectancy_Analysis.py
+```
 
 ### What the script does:
 1. Loads and cleans data
@@ -66,7 +76,11 @@ The script will automatically:
 * The United States has the highest spending ($11,067 per person) among the 59 countries, yet has a life expectancy of only 78.9 years
 * The outliers suggest that there are other factors like efficiency, access, and lifestyle that play a role in life expectancy
 
+<br>
 
+---
+
+<br>
 
 **Fig. 2. Two normal distribution curves**
 
@@ -78,15 +92,24 @@ The script will automatically:
     * Value is very close to zero
 *  z = 3.3
 
+---
 
 ## Limitations 
-
+* Small sample size of 59 countries
+    * From the 59 countries, 38 are in Europe, and only 1 in Africa
+    * The results therefore only apply to middle- and high-income countries
+* The data is only meant to show association, not causation
+* Factors such as healthcare efficiency, access, education, and lifestyle are not included in the analysis
 
 
 ## Conclusion
-
-
-## Files 
-
+In conclusion, both analyses provide strong evidence of diminishing returns in 2019. In low-spending coun-
+tries, an extra $1,000 per person added 2.5 more years of life expectancy. Contrastingly, high-spending
+countries indicated no association with further gains in life expectancy. This means that the relationship
+becomes flatter as health spending increases.
 
 ## Data Citation 
+* UN, World Population Prospects (2024) – processed by Our World in Data. "Life expectancy at birth – UN WPP" [dataset].
+* OECD (2026) – with minor processing by Our World in Data. "Health expenditure per capita – Total – OECD" [dataset].
+* Our World in Data. "World region according to OWID" [dataset].
+* Our World in Data, "Life expectancy vs. health spending", https://ourworldindata.org/grapher/life-expectancy-vs-health-expenditure (accessed 30 September 2026).
