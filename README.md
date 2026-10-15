@@ -50,7 +50,15 @@ The script will automatically:
 
 <img width="620" height="380" alt="Screenshot 2026-10-14 at 14 41 00" src="https://github.com/user-attachments/assets/1a704b53-937b-489f-90b4-5e8c65efe1ad" />
 
-
+* Life expectancy increases steeply at low spending
+* Increase is not constant
+* The curve starts to flatten above $5,000
+* The data point and the logarithmic model follow similar trends
+* The logarithmic model's R² value is higher (0.62) compared to the linear models (0.46), therefore the logarithmic model fits the data better
+* Two notable negative outliers: South Africa and the United States
+* South Africa has a lower life expectancy (66.1 years) than the countries that spend similar amounts on healthcare
+* The United States has the highest spending ($11,067 per person) among the 59 countries, yet has a life expectancy of only 78.9 years
+* The outliers suggest that there are other factors like efficiency, access, and lifestyle that play a role in life expectancy
 
 **Fig. 2. Two normal distribution curves**
 
