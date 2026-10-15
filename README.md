@@ -54,7 +54,7 @@ python3 Life_Expectancy_Analysis.py
 4. Fits a linear and a logarithmic model
 5. Compares the two models by calculating the coefficient of determination (R²)
 6. The second test assumes that there is no curve shape
-7. The 59 countries are divided into two equal-sized groups: low- and high-spending
+7. The 59 countries are divided into two groups: low- and high-spending
 8. The countries are split using the median spending ($2,645)
 9. Fits a slope into each spending group with a %95 CI
 10. Tests whether there is a significant difference between the two slopes by calculating the z-score
