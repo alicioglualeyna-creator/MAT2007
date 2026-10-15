@@ -56,7 +56,7 @@ python3 Life_Expectancy_Analysis.py
 6. The second test assumes that there is no curve shape
 7. The 59 countries are divided into two groups: low- and high-spending
 8. The countries are split using the median spending ($2,645)
-9. Fits a slope into each spending group with a %95 CI
+9. Fits a slope into each spending group with a 95% CI
 10. Tests whether there is a significant difference between the two slopes by calculating the z-score
 11. Lastly, it prints everything in the terminal and saves the tables (CSV) and figures (PNG)
 
